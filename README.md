@@ -18,3 +18,5 @@
 
 ![data-etahenok](https://github.com/user-attachments/assets/0e8e5ce3-fec4-4e26-9cfb-4cd6a9e2a02a)
 
+⚠️🗣Once the airpsx plugin is activated, if you want the "icons" desktop airpsx to be displayed, launch the pkg again 🎨
+
