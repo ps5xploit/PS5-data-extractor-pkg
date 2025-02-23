@@ -11,5 +11,10 @@
 - DOWNLOAD : https://github.com/ps5xploit/PS5-data-extractor-pkg/releases/download/ps5-extract-plugins/PS5-extractor-Plugins.pkg
  
  .......................................
- - Soon PS5 Cheats GAMES 
+ - Soon PS5 Cheats GAMES and more .plugin
+
+
+🗣Remember: for the PKG to extract the plugins you must have Enabled etaHEN [Utilities]  /data in App sandboxes ⚠️
+
+![data-etahenok](https://github.com/user-attachments/assets/0e8e5ce3-fec4-4e26-9cfb-4cd6a9e2a02a)
 
