@@ -22,3 +22,4 @@
 
 ⚠️🗣Once the airpsx plugin is activated, if you want the "icons" desktop airpsx to be displayed, launch the pkg again 🎨
 
+https://x.com/m0ur0ne/status/1893696716798357987?t=WH3ofdoUl0F66WvOhvFy1A&s=19
