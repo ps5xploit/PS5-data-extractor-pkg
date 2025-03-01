@@ -7,9 +7,10 @@
 - Added Cheats PS4 - PS5
  [ DOWNLOAD ] : https://github.com/ps5xploit/PS5-data-extractor-pkg/releases/download/ps5-extract-plugins/PS5-extractor-Plugins-CHEATS.pkg
 
-** Special thanks for the cheats ** 
--https://github.com/GoldHEN/GoldHEN_Cheat_Repository
--https://github.com/etaHEN/PS5_Cheats
+** Special thanks for the cheats **
+
+- https://github.com/GoldHEN/GoldHEN_Cheat_Repository
+- https://github.com/etaHEN/PS5_Cheats
 
 -----------------------------------------------
 
