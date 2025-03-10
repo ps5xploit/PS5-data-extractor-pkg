@@ -24,7 +24,7 @@
 
 25/02/25 added icons show on ps5 web browser🎨
 
- - airpsx.plugin  v0.07
+ - airpsx.plugin 
  - Error_Disabling.plugin
  - illusion_cheats.plugin
 
