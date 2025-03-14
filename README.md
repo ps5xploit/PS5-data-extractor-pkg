@@ -3,7 +3,11 @@
 ![image](https://github.com/user-attachments/assets/f5c93fd1-d53c-406f-9a58-94975f3acc11)
 
 - this pkg PS4 is for PS5 Jailbreak console, extract etaHEN plugins on data.
+▶️​ [ DOWNLOAD ] ✅​ https://github.com/ps5xploit/PS5-data-extractor-pkg/releases/download/ps5-extract-plugins/PS5-extractor-Plugins-CHEATS.pkg
 
+14/03/25  Added:
+- spoofer.plugin  ( PS4 SDK patched to 99.9)
+-----------------------------------------------
 
 10/03/25  Added:
 - temperature.plugin 
@@ -14,7 +18,7 @@
 -----------------------------------------------
 01/03/2025
 - Added Cheats PS4 - PS5
-▶️​ [ DOWNLOAD ] ✅​ https://github.com/ps5xploit/PS5-data-extractor-pkg/releases/download/ps5-extract-plugins/PS5-extractor-Plugins-CHEATS.pkg
+
 
 ** Special thanks for the cheats **
 
@@ -24,7 +28,7 @@
 
 25/02/25 added icons show on ps5 web browser🎨
 
- - airpsx.plugin 
+ - airpsx.plugin  
  - Error_Disabling.plugin
  - illusion_cheats.plugin
 
