@@ -26,7 +26,7 @@
 - https://github.com/etaHEN/PS5_Cheats
 -----------------------------------------------
 
-25/02/25 added icons show on ps5 web browser🎨
+25/02/25 
 
  - airpsx.plugin  
  - Error_Disabling.plugin
@@ -39,6 +39,4 @@
 
 ![data-etahenok](https://github.com/user-attachments/assets/0e8e5ce3-fec4-4e26-9cfb-4cd6a9e2a02a)
 
-⚠️🗣The first time you activate the airpsx plugin, run the pkg again to overwrite the data and display the permanent icons. 🎨
 
-https://x.com/m0ur0ne/status/1894525924982272315?t=W3MyjVBfJgvKiCgtTiUVnw&s=19
