@@ -3,11 +3,17 @@
 ![image](https://github.com/user-attachments/assets/f5c93fd1-d53c-406f-9a58-94975f3acc11)
 
 - this pkg PS4 is for PS5 Jailbreak console, extract etaHEN plugins on data.
-▶️​ [ DOWNLOAD ] ✅​ https://github.com/ps5xploit/PS5-data-extractor-pkg/releases/download/ps5-extract-plugins/PS5-extractor-Plugins-CHEATS.pkg
+▶️​ [ DOWNLOAD ] ✅​ https://github.com/ps5xploit/PS5-data-extractor-pkg/releases/download/ps5-extract-plugins/PS5-extractor-Plugins.pkg
+
 
 ---------------- Log ----------------------------
 
+12/04/2025
+- Added a total of 11 plugins
+- Removed cheats (you can now download them from etahen)
 
+
+-----------------------------------------------
 15/03/25  Added:
 - WEBSRV.plugin  
 - Pup-decrypt.plugin
@@ -45,3 +51,5 @@
 🗣Remember: for the PKG to extract the plugins you must have Enabled etaHEN [Utilities]  /data in App sandboxes ⚠️
 
 ![data-etahenok](https://github.com/user-attachments/assets/0e8e5ce3-fec4-4e26-9cfb-4cd6a9e2a02a)
+
+
