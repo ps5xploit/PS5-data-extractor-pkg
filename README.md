@@ -8,10 +8,16 @@
 
 ---------------- Log ----------------------------
 
+11/05/2025 Added:
+- Remove_Cache.plugin  
+- APP_Title_ID.plugin
+- Airpsx (v0.14)
+
+-----------------------------------------------
+
 12/04/2025
 - Added a total of 11 plugins
 - Removed cheats (you can now download them from etahen)
-
 
 -----------------------------------------------
 15/03/25  Added:
