@@ -9,7 +9,7 @@
 ---------------- Log ----------------------------
 
 01/11/2025 Added:
-- App Dumper 1.01
+- App Dumper 1.02
 + UPDATE:
 - Airpsx 0.19.1
 - Websrv 0.26
