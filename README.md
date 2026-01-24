@@ -51,7 +51,7 @@ v1.01
 
 11/05/2025 Added:
 - Remove_Cache.plugin  
-- APP_Title_ID.plugin
+- ~~APP_Title_ID.plugin~~
 - Airpsx (v0.14)
 
 -----------------------------------------------
@@ -66,18 +66,18 @@ v1.01
 - Pup-decrypt.plugin
 -----------------------------------------------
 14/03/25  Added:
-- spoofer.plugin  3.xx - 5.xx ( PS4 SDK patched to 99.9)
+- ~~spoofer.plugin  3.xx - 5.xx ( PS4 SDK patched to 99.9)~~ 
 -----------------------------------------------
 
 10/03/25  Added:
-- temperature.plugin 
+- ~~temperature.plugin~~ 
 -----------------------------------------------
 
 09/03/25 🏴‍☠️PS5 cheats have been fixed
 
 -----------------------------------------------
 01/03/2025
-- Added Cheats PS4 - PS5
+- ~~Added Cheats PS4 - PS5~~
 
 
 ** Special thanks for the cheats **
