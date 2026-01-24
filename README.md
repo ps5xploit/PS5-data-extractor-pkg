@@ -7,6 +7,13 @@
 
 
 ---------------- Log ----------------------------
+v1.01 
+24/01/2026 Added:
+- BackPork
+- App Dumper 1.08
+*Plugins that are no needed were removed
+
+-----------------------------------------------
 09/01/2026 Added:
 - FTP Fast 1.15
  + UPDATE:
