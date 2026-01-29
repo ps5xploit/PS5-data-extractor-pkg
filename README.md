@@ -9,7 +9,7 @@
 ---------------- Log ----------------------------
 
 29/01/2026 Added:
-- Activation Offline Account
+- Activation PSN Account
 
 -----------------------------------------------
 
