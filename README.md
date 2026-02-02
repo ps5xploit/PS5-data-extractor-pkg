@@ -8,8 +8,8 @@
 
 ---------------- Log ----------------------------
 
-29/01/2026 Added:
-- Activation PSN Account
+02/02/2026 Added:
+- Activation PSN Account (np-fake-signin 1.1)
 
 -----------------------------------------------
 
