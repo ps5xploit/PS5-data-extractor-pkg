@@ -7,7 +7,14 @@
 
 
 ---------------- Log ----------------------------
+v1.02 
+01/05/2026 Added:
+- Linux Loader
+- VoidShell 3.0
++ UPDATE:
+ - ShadowMount 1.06
 
+-----------------------------------------------
 02/02/2026 Added:
 - Activation PSN Account (np-fake-signin 1.1)
 
